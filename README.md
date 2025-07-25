@@ -11,3 +11,4 @@ DATASET=data/gameplay_data" saves the current model paths
 --input_blob=input_0
 --output_blob=output_0
 $DATASET/test/[image]/[image name].png output.jpg" loads the image and the ai tries to figure out what game it is.
+Data set came from https://www.kaggle.com/datasets/aditmagotra/gameplay-images 
